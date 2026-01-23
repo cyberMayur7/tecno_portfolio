@@ -20,6 +20,6 @@ React, Tailwind CSS, Framer Motion, EmailJS
 ![Skills Section](./screenshots/skills.png)
 
 ## 📬 Contact
-Email: yourmail@example.com
-LinkedIn: https://linkedin.com/in/…
-GitHub: https://github.com/…
+Email: tecnomayur7@gmail.com
+LinkedIn: https://in.linkedin.com/in/mayur-girase-7060b6286
+GitHub: https://github.com/cyberMayur7
